@@ -8,9 +8,9 @@
   "data": [
     {
       "file": "data/page.html",
-      "size": 8220,
-      "hmac": "a922c60272c3b1dd15a58964bfbc4b096a2dce6175d3fffbbff809bdfee47823"
+      "size": 8212,
+      "hmac": "9381a26c71db19760d46ac490829aa3117293fefa56aa3cc04be700e1b0e010e"
     }
   ],
-  "signature": "5469003c68eca1319373c15e7618974bd26623b9d78abe141b88a82215c5ef32"
+  "signature": "4c7335e01bb141d55c9db70e8c4357ec141c2241a2b97604e2642adddbbf1139"
 }
