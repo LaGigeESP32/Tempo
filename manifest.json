@@ -1,16 +1,21 @@
 {
-  "version": "20251110_001",
+  "version": "20251111_001",
   "firmware": {
-    "file": "Tempo.ino.bin",
-    "size": 1125168,
-    "hmac": "ce9d257100dbc54d49e0ad76e3a60475f67ca02c2cd72552836e3ca7c5aaee7d"
+    "file": "TempoL.ino.bin",
+    "size": 1125616,
+    "hmac": "86de11a20b98839d302649641fbad53cd0088168b6c0e4488995aba7456c389f"
   },
   "data": [
     {
+      "file": "data/w3.css",
+      "size": 23658,
+      "hmac": "b04d468dcd8c61eddf09e9f2a8e969d6764be8b0e3f1d5a372d80d0d2c218289"
+    },
+    {
       "file": "data/page.html",
-      "size": 8212,
-      "hmac": "9381a26c71db19760d46ac490829aa3117293fefa56aa3cc04be700e1b0e010e"
+      "size": 8220,
+      "hmac": "a922c60272c3b1dd15a58964bfbc4b096a2dce6175d3fffbbff809bdfee47823"
     }
   ],
-  "signature": "4c7335e01bb141d55c9db70e8c4357ec141c2241a2b97604e2642adddbbf1139"
+  "signature": "7c2d9ab205dcd2fdbd70cc8b271fe3ee6274f53fbb6bcc79bf3b188e26fe46e8"
 }
