@@ -1,9 +1,9 @@
 {
-  "version": "20251111_003",
+  "version": "20251111_004",
   "firmware": {
     "file": "TempoL.ino.bin",
-    "size": 1125696,
-    "hmac": "9df9fb67019aaec277ad15438b384cff50d3acd3cedabf077cd7ef6d376c9803"
+    "size": 1125808,
+    "hmac": "641652e6a102cca29ef0576e7a84c02a9e4d4ac0fb9d26902b35d1158576e120"
   },
   "data": [
     {
@@ -17,5 +17,5 @@
       "hmac": "a922c60272c3b1dd15a58964bfbc4b096a2dce6175d3fffbbff809bdfee47823"
     }
   ],
-  "signature": "7bfdaf64e4e1316a386c400c8e197b330a5cdfdee60071f13d1388cfd0842d92"
+  "signature": "3064282b00682fad0367b34bbb8d3eb77d5eced908adc572728aae0a40d52961"
 }
